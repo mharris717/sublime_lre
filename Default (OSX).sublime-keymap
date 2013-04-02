@@ -1,0 +1,3 @@
+[
+  { "keys": ["command+shift+l"], "command": "toggle_lre" }
+]
